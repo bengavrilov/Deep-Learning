@@ -4,4 +4,4 @@ This repo will contains everything deep learning.
 
 Note: Currently working on lectures
 
-Log: put on hold to focus on school 
+Log: put on hold to focus on school + interview prep
